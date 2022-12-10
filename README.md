@@ -11,9 +11,11 @@
 [![License](https://img.shields.io/github/license/nyoom-engineering/oxocarbon?color=%238da3b9&style=for-the-badge)](https://mit-license.org/)
 ![Discord Server](https://img.shields.io/discord/1050624267592663050?color=738adb&label=Discord&Color=white&style=for-the-badge)
 
-</div>
-
 Oxocarbon is a set of community ports of IBM's carbon color palette and design philosophy to various applications and tooling.
+
+<img width="805" alt="Screenshot 2022-12-09 at 9 26 05 PM" src="https://user-images.githubusercontent.com/71196912/206824417-1020fb4f-e181-441f-be6f-a53ca18e8b26.png">
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/71196912/206874869-a16741ee-178c-44fe-ab41-4695a2fb6ea6.png">
+</div>
 
 ## Design Philosophy
 
