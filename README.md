@@ -27,6 +27,10 @@ The resulting palette is a set of colors that portrays a singular IBM. Of the wo
 
 With every port the goal is simple, give the user as much information about their application as possible while remaining easy on the eyes.
 
+## Testimonials 
+
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/71196912/221354121-0adf135b-9534-41e6-b697-801f847d2b66.png">
+
 ## Contributing
 
 Before requesting or creating a port, please search through open [github issues](https://github.com/nyoom-engineering/oxocarbon/issues) to see if your port has already been requested. If it hasn't, feel free to open an issue with what application you'd like a port and inforation about the application.
