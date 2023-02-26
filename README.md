@@ -43,3 +43,4 @@ Discussion primarily takes place on the Nyoom Engineering discord server
 
 - [base16](https://github.com/nyoom-engineering/base16-oxocarbon)
 - [nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- [emacs](https://github.com/thefossenjoyer/oxocarbon-emacs)
