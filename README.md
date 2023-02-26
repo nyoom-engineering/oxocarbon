@@ -43,3 +43,7 @@ Discussion primarily takes place on the Nyoom Engineering discord server
 
 - [base16](https://github.com/nyoom-engineering/base16-oxocarbon)
 - [nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- [alacritty](https://github.com/nyoom-engineering/oxocarbon-alacritty)
+- [wezterm](https://github.com/nyoom-engineering/oxocarbon-wezterm)
+- [iterm2](https://github.com/nyoom-engineering/oxocarbon-iterm2)
+- [terminal.app](https://github.com/nyoom-engineering/oxocarbon-terminal-app)
