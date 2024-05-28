@@ -42,4 +42,5 @@ Discussion primarily takes place on the Nyoom Engineering discord server
 ## Ports
 
 - [base16](https://github.com/nyoom-engineering/base16-oxocarbon)
+- [foot](https://github.com/bitterhalt/oxocarbon-foot)
 - [nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
