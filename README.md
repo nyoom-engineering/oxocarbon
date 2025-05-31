@@ -1,4 +1,4 @@
-# oxocarbon ![Discord Server](https://img.shields.io/discord/1050624267592663050?color=738adb&label=Discord&Color=white&style=for-the-badge)
+# <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/icon-3840x4663-shadow.png?raw=true" width="70"> oxocarbon
 
 Oxocarbon is a colorscheme inspired by IBM's carbon color palette and design philosophy to various applications and tooling
 
@@ -132,7 +132,7 @@ Before requesting or creating a port, please search through open [github issues]
 
 Before contributing, its recommended to read through the [style guide](https://github.com/nyoom-engineering/oxocarbon/blob/main/docs/style-guide.md) for information on where and why to apply certain colors and general ideals to keep in mind while working on a port. You can then read the [contributing guide](https://github.com/nyoom-engineering/oxocarbon/blob/main/docs/contributing.md) to get started on your port.
 
-Discussion primarily takes place on the Nyoom Engineering discord server
+Discussion primarily takes place on the Nyoom Engineering discord server: https://discord.gg/M528tDKXRG
 
 ## Testimonials 
 
