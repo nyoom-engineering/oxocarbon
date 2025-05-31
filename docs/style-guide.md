@@ -43,21 +43,21 @@ Code/Colors
 
 # Branding
 
-Branding for the Oxocarbon project is a derivitive of that instilled across the Nyoom Engineering organization.
-
-You are welcome to use the standard logos:
+Branding for the Oxocarbon project is a derivitive of that instilled across the Nyoom Engineering organization. The template should handle most of it for you, but in the case you would like to do it manually, you are welcome to use the standard logos:
 
 <img src="./out/icon-3840x3840-shadow.png" width="345">
 <img src="./out/logo-3840x1280-shadow.png" width="345">
 
-Generate [your own](https://github.com/nyoom-engineering/nyoom-engineering):
+Or generate [your own](https://github.com/nyoom-engineering/nyoom-engineering):
 
 <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/logo-custom-3840x1330-shadow.png?raw=true" width="345">
 
-Or display the palette:
+Or display the standard palette:
 
 <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/palette-3840x4663-shadow.png?raw=true" width="345">
 
-For websites and the like, there is also a "Made With Oxocarbon" tag you can use: 
+And for websites and the like, there is also a "Made With Oxocarbon" tag you can use: 
 
 <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/made-with-3840x1330-shadow.png?raw=true" width="345">
+
+For official ports, a `1280x` resolution banner image with the name of your project should be generated for GitHub's "Social Preview"
