@@ -1,6 +1,6 @@
 # <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/made-with-3840x1330-shadow.png?raw=true">
 
-<img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/palette-3840x4663-shadow.png?raw=true">
+<img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/palette-3840x4663-shadow.png?raw=true" width="345">
 
 Oxocarbon is a High contrast accessible colorscheme inspired by IBM Carbon. It delivers class-leading readability without strain by adhering to WCAG 2.1 guidelines
 
