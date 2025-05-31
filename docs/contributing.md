@@ -1,10 +1,8 @@
 # Contributing
 
-Creating oxocarbon ports
-
 ## What is a port?
 
-A port is an adaptation of Oxocarbon's palette for an app to use. Along with setting colors, it also handles themeing of UI components (if possible) to align more with IBM Carbon's design ideals
+A port is an adaptation of Oxocarbon's palette for an application of tool. Along with setting colors, it shuold also handle themeing of UI components where necessary to align more with Nyoom Engineering's design ideals.
 
 ## Creation
 
@@ -53,9 +51,9 @@ git reset $(git commit-tree HEAD^{tree} -m "feat: initial commit")
 Although you just created the repo successfully, it's important to style it properly to ensure consistency:
 
 - The name of the repo must be the simplest, all lowercase version of the app's name (e.g `nvim` instead of `NeoVim`). You may use hyphens if needed (e.g. `windows-files`).
-- Any images should **not** be uploaded to the respository. Instead, its recommended to drag-and-drop the image into a blank github issue and use the generated link instead. This saves quite a bit of space as images are often 10-20x the size of text files. More information here: <https://www.reddit.com/r/neovim/comments/wsg5yx/attention_to_all_plugin_authors_newcomers_careful/>
-- Format the repo's description as "A port of the oxocarbon theme to <app name> inspired by IBM Carbon", where <app name> is the name of the app, capitalized properly.
-Add catppuccin to the topics.
+- Any images should **not** be uploaded to the respository. Instead, its recommended to drag-and-drop the image into a blank github issue and use the generated link instead. This helps keep the repository & clone as small as possible.
+- Format the repo's description as "A port of Oxocarbon to <app name>", where <app name> is the name of the app, capitalized properly.
+Add oxocarbon to the topics.
 - Ensure uppercase meta files (e.g. README.md)
 - Don't add health files (e.g. CODE_OF_CONDUCTS.md, SUPPORT.md), those are organization-wide files managed by the organization
 
@@ -67,6 +65,4 @@ Ports should first be created under your own profile. Once you feel a port is re
 2. A link to the repo with the port
 3. A link of your port added to the `README.md` under the `Ports` section
 
-Its also recommended (but not required) to share the port with our discord community beforehand, so that other members of the community can give their opinion on it. You can use the provided [samples](https://github.com/nyoom-engineering/oxocarbon/blob/main/samples) to test and showcase your port
-
-It might not be perfect the first time and thats okay! Ports take time. Once I feel like the port is ready to go, I'll accept the PR and move the repository of your port over to the `nyoom-engineering` github organization.
+Its also recommended (but not required) to share the port with our discord community beforehand, so that other members of the community can give their opinion on it. It might not be perfect the first time and thats okay! You can choose to keep your port unofficial, or submit a PR and we can work on moving it to the `nyoom-engineering` github organization.

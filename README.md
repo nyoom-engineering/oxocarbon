@@ -1,12 +1,12 @@
 # <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/made-with-3840x1330-shadow.png?raw=true" width="345">
 
-Oxocarbon is a colorscheme inspired by IBM's carbon color palette and design philosophy to various applications and tooling
-
 <img src="https://github.com/nyoom-engineering/nyoom-engineering/blob/main/out/palette-3840x4663-shadow.png?raw=true" width="345">
+
+Oxocarbon is a colorscheme inspired by IBM's carbon color palette and design philosophy. It delivers class-leading readability and contrast without strain by adhering to WCAG 2.1 guidelines
 
 ## Ports
 
-Ready-to-use ports of oxocarbon to your favorite applications!
+Ready-to-use ports of oxocarbon to your favorite to your favorite applications and tooling!
 
 ### Official
 
