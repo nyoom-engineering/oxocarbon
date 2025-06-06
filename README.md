@@ -23,6 +23,7 @@ Ready-to-use ports of oxocarbon to your favorite to your favorite applications a
 <summary>Text Editors</summary>
 
 - [nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- [VSCode/Cursor](https://github.com/nyoom-engineering/oxocarbon-vscode)
 
 </details>
 
@@ -33,6 +34,7 @@ Ready-to-use ports of oxocarbon to your favorite to your favorite applications a
 * [iTerm2](https://github.com/nyoom-engineering/oxocarbon-iterm2)
 * [Wezterm)](https://github.com/nyoom-engineering/oxocarbon-wezterm)
 * [MacOS Terminal](https://github.com/nyoom-engineering/oxocarbon-terminal-app)
+* [Warpl](https://github.com/nyoom-engineering/oxocarbon-warp)
     
 </details>
 
