@@ -68,7 +68,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Light/Dark] Foot](https://github.com/Oxocarbon-Theme/foot)
 * [[Dark] GNOME Terminal](https://github.com/charleszheng44/gnome-terminal-oxocarbon)
 * [[Dark] Hyper](https://github.com/charleszheng44/hyper-oxocarbon)
-* [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon)
+* [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon) (does not work as of `tmux 3.5`)
 * [[Dark] Konsole](https://github.com/code0x378/oxocarbon-konsole)
 * [[Dark] ST](https://gist.github.com/xStormyy/f6d5316a395091f1de57e42ac0492632)
 * [[Dark] Warp](https://github.com/Takk8IS/oxocarbon-theme-for-warp)
@@ -112,7 +112,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] Zathura](https://discord.com/channels/1050624267592663050/1051038201193701427/1125867649088376892)
 * [[Light/Dark] btop](https://gist.github.com/gideonmt/cf8561cb130e3ca859f8a5471014e933)
 * [[Dark] Fuzzel](https://github.com/kuripa/oxocarbon-fuzzel)
-* [[Light/Dark] Jankyborders](https://gist.github.com/ethanuppal/384976fcb454cfcf81d8d12815dddce0)
+* [[Light/Dark] JankyBorders](https://gist.github.com/ethanuppal/384976fcb454cfcf81d8d12815dddce0)
 
 </details>
 
