@@ -15,14 +15,14 @@ Ready-to-use ports of oxocarbon to your favorite to your favorite applications a
 <details open>
 <summary>System</summary>
 
-- [base16](https://github.com/nyoom-engineering/base16-oxocarbon)
+- [Base16](https://github.com/nyoom-engineering/base16-oxocarbon)
 
 </details>
 
 <details open>
 <summary>Text Editors</summary>
 
-- [nvim](https://github.com/nyoom-engineering/oxocarbon.nvim)
+- [NeoVim](https://github.com/nyoom-engineering/oxocarbon.nvim)
 - [VSCode/Cursor](https://github.com/nyoom-engineering/oxocarbon-vscode)
 
 </details>
@@ -32,9 +32,9 @@ Ready-to-use ports of oxocarbon to your favorite to your favorite applications a
 
 * [Alacritty](https://github.com/nyoom-engineering/oxocarbon-alacritty)
 * [iTerm2](https://github.com/nyoom-engineering/oxocarbon-iterm2)
-* [Wezterm)](https://github.com/nyoom-engineering/oxocarbon-wezterm)
+* [Wezterm](https://github.com/nyoom-engineering/oxocarbon-wezterm)
 * [MacOS Terminal](https://github.com/nyoom-engineering/oxocarbon-terminal-app)
-* [Warpl](https://github.com/nyoom-engineering/oxocarbon-warp)
+* [Warp](https://github.com/nyoom-engineering/oxocarbon-warp)
     
 </details>
 
