@@ -72,6 +72,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] Konsole](https://github.com/code0x378/oxocarbon-konsole)
 * [[Dark] ST](https://gist.github.com/xStormyy/f6d5316a395091f1de57e42ac0492632)
 * [[Dark] Warp](https://github.com/Takk8IS/oxocarbon-theme-for-warp)
+* [[Dark] Ghostty](https://github.com/Axiol/oxocarbon-ghostty)
 
 </details>
 
