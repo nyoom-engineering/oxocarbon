@@ -70,7 +70,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] Hyper](https://github.com/charleszheng44/hyper-oxocarbon)
 * [[Light/Dark] tmux](https://github.com/JonRoosevelt/tmux-oxocarbon) (does not work as of `tmux 3.5`)
 * [[Dark] Konsole](https://github.com/code0x378/oxocarbon-konsole)
-* [[Dark] ST](https://gist.github.com/xStormyy/f6d5316a395091f1de57e42ac0492632)
+* [[Dark] ST](https://gist.github.com/xstyyy/f6d5316a395091f1de57e42ac0492632)
 * [[Dark] Warp](https://github.com/Takk8IS/oxocarbon-theme-for-warp)
 
 </details>
