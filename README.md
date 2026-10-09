@@ -57,6 +57,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] Zed](https://github.com/Takk8IS/oxocarbon-theme-for-zed)
 * [[Dark] Zed](https://github.com/danielgrbacbravo/oxocarbon-zed-theme)
 * [[Light/Dark] Replit](https://github.com/oxocarbon-theme/replit)
+* [[Dark] Micro](https://github.com/StikyPiston/oxocarbon-micro)
 
 </details>
 
