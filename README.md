@@ -83,8 +83,8 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] WhatsApp](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/whatsapp-web)
 * [[Dark] YouTube](https://github.com/PedroVH/oxocarbon-userstyles/tree/main/youtube)
 * [[Dark] Forgejo](https://codeberg.org/bipp/oxocarbon-forgejo)
-* [[Dark] Vimium](https://gist.github.com/xStormyy/720c246afd64b80fab4e80a202af8487)
-* [[Light/Dark] MonkeyType](https://gist.github.com/xStormyy/101f3940696137e64c707aba5556ae3c) <!-- TODO recreate dark theme -->
+* [[Dark] Vimium](https://gist.github.com/xstyyy/720c246afd64b80fab4e80a202af8487)
+* [[Light/Dark] MonkeyType](https://gist.github.com/xstyyy/101f3940696137e64c707aba5556ae3c) <!-- TODO recreate dark theme -->
 * [[Dark] Discord](https://github.com/deceptionfalls/oxocarbon-discord)
 
 </details>
@@ -92,7 +92,7 @@ For software where an official port is unavailable, our thriving community steps
 <details open>
 <summary>GUI Toolkits</summary>
 
-* [[Dark] GTK 4](https://gist.github.com/xStormyy/f2f19005da29f351bbc69c89ef786909)
+* [[Dark] GTK 4](https://gist.github.com/xstyyy/f2f19005da29f351bbc69c89ef786909)
 * [[Dark] GTK 3](https://git.sr.ht/~ved/oxocarbon-gtk)
 
 </details>
@@ -103,7 +103,7 @@ For software where an official port is unavailable, our thriving community steps
 * [[Dark] Oxocarbon themed Papirus Folders](https://github.com/BattleCh1cken/oxocarbon-papirus-folders)
 * [[Dark] Rofi](https://github.com/BattleCh1cken/oxocarbon-rofi/tree/main)
 * [[Dark] Rofi](https://discord.com/channels/1050624267592663050/1051038432043999303/1270424218932088872)
-* [[Dark] fzf](https://gist.github.com/xStormyy/ab7549107e2ca0e7d3f97a76be7ffb77)
+* [[Dark] fzf](https://gist.github.com/xstyyy/ab7549107e2ca0e7d3f97a76be7ffb77)
 * [[Dark] Starship](https://gitlab.com/boydkelly/carbonizer/-/blob/main/starship/starship.toml)
 * [[Light/Dark] Wallpapers](https://github.com/andrewzn69/wallpapers/tree/main/carbon)
 * [[Dark] rEFInd](https://github.com/PedroVH/oxocarbon-refind)
